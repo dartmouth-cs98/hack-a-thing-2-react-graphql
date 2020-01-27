@@ -9,6 +9,7 @@ First impressions with Playground is that it seems to be more beginner-friendly.
 What you learned: 
 1. GraphQL's syntax takes a while to get used to but its advantages over REST API are fairly obvious, especially in terms of "clean-code" and minimalism.
 2. Playground is a nice in-browser IDE - I feel cheated by Insomnia / Postman haha.
+3. GraphQL is a way to ask for data from a server by a client that is flexible and can accommodate different types of information requested instead of "rigid" or "pre-defined," unflexible buckets of information. With GraphQL, you don't need to create 10 different endpoints when you can one "smart" endpoint essentially. 
 
 What didn't work: 
 Nothing fundamentally was broken. There were certain syntax hiccups throughout the tutorial but otherwise I understood it. 
